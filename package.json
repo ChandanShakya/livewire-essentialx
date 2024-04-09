@@ -1,0 +1,25 @@
+{
+  "name": "livewire-essentialx",
+  "displayName": "Livewire Essentialx",
+  "description": "This extension pack includes the extensions to get more productive for Livewire development",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChandanShakya/livewire-essentialx"
+  },
+  "icon": "logo.png",
+  "publisher": "ChandanShakya",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "adrianwilczynski.alpine-js-intellisense",
+    "bradlc.vscode-tailwindcss",
+    "austenc.livewire-docs",
+    "cierra.livewire-vscode",
+    "M4tr1ck.livewire-goto-updated-3"
+  ]
+}
